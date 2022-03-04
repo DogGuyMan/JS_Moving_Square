@@ -1,4 +1,7 @@
 # JS_Moving_Square
+
+<img src="https://media.giphy.com/media/ymTeEmxwr6eRWPxxoW/giphy.gif" width=100%>
+
 ## 개요
 
 * 자바스트립트의 이해를 높이기 위한 프로젝트
@@ -57,6 +60,3 @@ for (let i = 0; i < 6; i++) {
 경로는 직사각형 이외의 도형
 
 -----
-
-## 결과물
-<img src="https://media.giphy.com/media/ymTeEmxwr6eRWPxxoW/giphy.gif">
